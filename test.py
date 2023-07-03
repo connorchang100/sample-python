@@ -1,6 +1,8 @@
 import sys
 
 
-print("Hello Monkey")
-input("asdf")
-print(sys.executable)
+print("Hello Monkey, From your Zookeeper")
+
+FACT = "Daddy is a Monkey"
+
+print(FACT)
